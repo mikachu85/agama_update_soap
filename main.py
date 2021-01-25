@@ -1,5 +1,7 @@
 __author__ = 'Damien Jeremiah'
 
+#All functions running
+
 import csv
 import functions
 
@@ -12,5 +14,4 @@ import functions
 
 # Function to delete nodes.
 #functions.delete_node()
-
 
